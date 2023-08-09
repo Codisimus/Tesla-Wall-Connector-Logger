@@ -1,5 +1,6 @@
 # Tesla Wall Connector Logger
 This script logs the current "lifetime energy used" of a Tesla wall-mounted car charger.
+
 [View on GitHub](https://github.com/Codisimus/Tesla-Wall-Connector-Logger)
 
 ## Pre-requisites
